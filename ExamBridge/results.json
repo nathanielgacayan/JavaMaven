@@ -1,0 +1,70 @@
+[
+  {
+    "studentName": "tanggol",
+    "score": 10,
+    "totalQuestions": 10,
+    "dateTime": "2026-05-17T17:15:02.727087300",
+    "answers": [
+      {
+        "question": "What is 2 + 2?",
+        "studentAnswer": "A",
+        "correctAnswer": "A",
+        "correct": true
+      },
+      {
+        "question": "Which language is primarily used for Android development?",
+        "studentAnswer": "B",
+        "correctAnswer": "B",
+        "correct": true
+      },
+      {
+        "question": "Which keyword is used to create a class in Java?",
+        "studentAnswer": "C",
+        "correctAnswer": "C",
+        "correct": true
+      },
+      {
+        "question": "What does CPU stand for?",
+        "studentAnswer": "A",
+        "correctAnswer": "A",
+        "correct": true
+      },
+      {
+        "question": "What is 5 + 5?",
+        "studentAnswer": "C",
+        "correctAnswer": "C",
+        "correct": true
+      },
+      {
+        "question": "Java is platform independent.",
+        "studentAnswer": "true",
+        "correctAnswer": "True",
+        "correct": true
+      },
+      {
+        "question": "HTML is a programming language.",
+        "studentAnswer": "false",
+        "correctAnswer": "False",
+        "correct": true
+      },
+      {
+        "question": "A variable can store data values.",
+        "studentAnswer": "true",
+        "correctAnswer": "True",
+        "correct": true
+      },
+      {
+        "question": "The Earth is flat.",
+        "studentAnswer": "false",
+        "correctAnswer": "False",
+        "correct": true
+      },
+      {
+        "question": "1 + 1 \u003d 11",
+        "studentAnswer": "false",
+        "correctAnswer": "False",
+        "correct": true
+      }
+    ]
+  }
+]
